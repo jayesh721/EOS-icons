@@ -73,30 +73,3 @@ git clone https://github.com/EOS-uiux-Solutions/eos-icons-api
 1. For `V1` APIs we're using Postman tests, which can be started using `npm run test:v1`
 2. For `V2` APIs we're using Mocha tests, which can be started using `npm run test:v2`
 3. Test All the APIs using `npm run test` 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
