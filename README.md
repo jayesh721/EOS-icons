@@ -17,6 +17,10 @@ Enhancing the backend behind EOS-icons and introducing new features
 ### Technologies used:
 `Typescript`, `javascript`, `Node.js`, `Docker`, `MongoDB`, `Redis`, `Algolia`, `Mocha`
 
+### Overview of the project
+
+
+
 ## Running the project
 
 - Cloning the repo:
