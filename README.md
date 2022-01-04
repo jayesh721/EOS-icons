@@ -14,12 +14,15 @@ Enhancing the backend behind EOS-icons and introducing new features
 - Caching layer is introduced to make the process of fetching the icons faster.
 - Algolia services is introduced to be used for the search queries.
 
+<br/>
+
 ### Technologies used:
 `Typescript`, `javascript`, `Node.js`, `Docker`, `MongoDB`, `Redis`, `Algolia`, `Mocha`
 
+<br/>
+
 ### Overview of the project
-
-
+![diagram](https://user-images.githubusercontent.com/68469442/148102640-3ed03713-ca79-4e84-a66a-b2c84e2a739b.PNG)
 
 ## Running the project
 
